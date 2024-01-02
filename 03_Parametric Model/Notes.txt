@@ -1,0 +1,8 @@
+Parametric model with case study presets
+This model is set up to showcase the benchmark case studies, to take full advantage of the model connect the manual parametric input group to the the Parameters input node. This will allow manual parameter input.
+
+The requirementsfor this model to work are:
+1. Rhino7
+2. Grassshopper
+3. Torro by Roly Hudson
+4. LunchBoxML
