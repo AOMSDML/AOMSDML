@@ -1,0 +1,8 @@
+Numerical machine learning model utilised in typological study
+
+This model requires:
+1. Rhino 7
+2. Grasshopper
+3. LunchBoxML
+4. Elefront
+5. Elefront Rhino6 Legacy (install via PackageManager)
