@@ -1,6 +1,8 @@
 Parametric model with case study presets
 This model is set up to showcase the benchmark case studies, to take full advantage of the model connect the manual parametric input group to the the Parameters input node. This will allow manual parameter input.
 
+The model was developed in Rhino7.
+
 The Grasshopper file uses the following plugins
 Human 
 MeshEdit Components
