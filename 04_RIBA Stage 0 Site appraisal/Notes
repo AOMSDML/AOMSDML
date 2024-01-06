@@ -1,1 +1,11 @@
-Generative and analytical models
+First open the generative set of file, set design space, and generate cases. 
+Then open the anlythical model, analyse data, review reduced design space.
+
+The Grasshopper file uses the following plugins
+
+Human 
+Pufferfish 
+HoopSnake 
+Sasquatch 
+Wombat 
+Toro 
