@@ -1,7 +1,11 @@
 Spatial-numerical machine learning model utilised in typological study
-Requirements to open files
-1. Rhino7
-2. Grasshopper
-3. LunchboxML
+
+The model was developed in Rhino7.
+
+The Grasshopper file used the following plugins
+Human 
+LunchBox 
+LunchBoxML 
+eleFront Rhino 6 Legacy 
 
 This model contains detailed CAD data - to update the classification change the input to the K-Means classifier
