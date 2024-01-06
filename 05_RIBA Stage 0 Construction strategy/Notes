@@ -1,6 +1,8 @@
 Open the generative set of Rhino and Grasshopper files, set design space, and generate cases. 
 Then open the analytical model, load data, review reduced design space.
 
+The models were developed in Rhino7.
+
 The Grasshopper file uses the following plugins
 
 Human 
