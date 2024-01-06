@@ -1,8 +1,8 @@
 Numerical machine learning model utilised in typological study
 
-This model requires:
-1. Rhino 7
-2. Grasshopper
-3. LunchBoxML
-4. Elefront
-5. Elefront Rhino6 Legacy (install via PackageManager)
+This model was developed in Rhino7.
+
+The Grasshopper definition uses the following plugins
+LunchBoxML | ver: 2020.6.25.0
+LunchBox | ver: 2020.6.30.0
+eleFront Rhino 6 Legacy
