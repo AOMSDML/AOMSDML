@@ -1,5 +1,5 @@
-First open the generative set of file, set design space, and generate cases. 
-Then open the anlythical model, analyse data, review reduced design space.
+Open the generative set of Rhino and Grasshopper files, set design space, and generate cases. 
+Then open the analytical model, load data, review reduced design space.
 
 The Grasshopper file uses the following plugins
 
