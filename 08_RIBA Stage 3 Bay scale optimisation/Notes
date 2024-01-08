@@ -1,1 +1,16 @@
-Optimisation model
+Open the both Rhino and Grasshopper files.
+
+The models were developed in Rhino7.
+
+The Grasshopper files use the following plugins
+
+Human 
+Pufferfish 
+HoopSnake 
+Sasquatch 
+Wombat 
+Toro 
+LunchBoxML | ver: 2020.6.25.0
+LunchBox | ver: 2020.6.30.0
+TTToolbox
+Octopus
