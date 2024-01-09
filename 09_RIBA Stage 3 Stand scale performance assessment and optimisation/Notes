@@ -1,1 +1,19 @@
-Generative and analytical models 
+This is the final analysis model, the dataset was generated with the parametric model, then transposed so each grid cell receives a set of performance identifiers.
+
+The Grasshopper file has two machine learning models - NN classification and K-Means clustering. User can switch between the two.
+
+Open the both Rhino and Grasshopper files.
+
+The models were developed in Rhino7.
+
+The Grasshopper files use the following plugins
+
+Human 
+Pufferfish 
+HoopSnake 
+Sasquatch 
+Wombat 
+Toro 
+LunchBoxML | ver: 2020.6.25.0
+LunchBox | ver: 2020.6.30.0
+TTToolbox
