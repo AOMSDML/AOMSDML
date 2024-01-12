@@ -8,13 +8,21 @@ The models were developed in Rhino7.
 The Grasshopper files use the following plugins
 
 Human 
-Pufferfish 
+
+Pufferfish
+
 HoopSnake 
+
 Sasquatch 
+
 Wombat 
+
 Toro 
+
 LunchBoxML | ver: 2020.6.25.0
+
 LunchBox | ver: 2020.6.30.0
+
 TTToolbox
 
 Sample datasets for Stages 0 to 2 can be found at the link below
